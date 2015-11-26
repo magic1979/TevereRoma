@@ -64,6 +64,8 @@ var app = {
 			    $("#indirizzoV").attr("class", "visione2DROID");
 			    $("#phonetext").attr("class", "visione2DROID");
 			    $("#phoneV").attr("class", "visione2DROID");
+				$("#phoneV2").attr("class", "visione2DROID");
+				$("#phoneV3").attr("class", "visione2DROID");
 			    $("#mobiletext").attr("class", "visione2DROID");
 			    $("#mobileV").attr("class", "visione2DROID");
 			    $("#emailtext").attr("class", "visione2DROID");
