@@ -48,6 +48,7 @@ var app = {
 				$("#testoCentrale").attr("class", "visione2aDROID");
 				$("#Nome").attr("class", "visione3aDROID");
 				$("#titolo").attr("class", "visione4DROID");
+				$("#titolo2").attr("class", "visione42DROID");
 				$("#spaziodroid").show();
                 $("#spaziodroid3").show();
 			    $("#spaziodroid4").show();
@@ -84,6 +85,7 @@ var app = {
 			$("#testoCentrale").attr("class", "visione2aIPAD");
 			$("#Nome").attr("class", "visione3IPAD");
 			$("#titolo").attr("class", "visione4IPAD");
+			$("#titolo2").attr("class", "visione42IPAD");
 			$("#titolov1").attr("class", "visione4IPAD");
 			$("#titolov2").attr("class", "visione4IPAD");
 			$("#copertina").attr("height", "100%");
